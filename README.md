@@ -1,31 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/idzs/MallDemo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 新手项目
+## 项目简介
+使用win10+vs2017（MVC5）+MySQL5.7。
+用户包括user和admin
+功能包括：
+user注册、登录、注销、修改个人信息、浏览商品、加入购物车、查看购物车、下单、查看历史订单；
+admin登录、注销、管理用户角色、修改用户信息、查询用户列表、对商品增删改查、查询所有订单；
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
